@@ -1,3 +1,4 @@
-#### 逃离插件
+#### Escape plugin
 
-每个文件夹为一个独立的小功能； 例如：```loading``` 利用css实现几个常见美观的loading动效
+A folder is an independent module which contains a function;
+Like```loading``` Implementation of several loading animation effects by using CSS.
